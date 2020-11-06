@@ -22,8 +22,8 @@
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Applied Mathmatics </br>
 👨‍💻 I am passionate about Data Science, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
-<a href="https://github.com/Deepak-du">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-du&title_color=002573&text_color=002573" />
+<a href="https://github.com/Akanksha-codes">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-codes&title_color=002573&text_color=002573" />
   </a>
   <a href="https://github.com/Deepak-du">
     <img src="https://github-readme-stats.vercel.app/api?username=deepak-du&title_color=002573&show_icons=true&3&icon_color=28057D" />
