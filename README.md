@@ -1,18 +1,15 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Akanksha!](//http://deepak-dev.tech/)
-
-<a href="https://www.linkedin.com/in/deepak-dubey-b921a1178/">
+## Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Akanksha!](//http://Akanksha-codes/)
+<a href="https://www.linkedin.com/in/akanksha-gautam-34773a192/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/thatdeepak">
+<a href="https://twitter.com/Akanksh61960794">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="Dubeydallen@gmail.com">
+<a href="akankshagautam760@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://dev.to/deepakdu">
+<a href="https://medium.com/@1773413003">
    <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-  
 </a>
 
 <br />
