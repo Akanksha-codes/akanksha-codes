@@ -16,8 +16,8 @@
 
 ### About Me 🚀
 
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Applied Mathmatics </br>
-👨‍💻 I am passionate about Data Science, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Government Engineering College Banda Information Technology </br>
+👨‍💻 I am passionate about Data Science, Web Dev, Machine Learning, DevOps, Documentation on thesis & I enjoy learning and explore new things in technical field. </br>
 
 <a href="https://github.com/Akanksha-codes">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-codes&title_color=002573&text_color=002573" />
