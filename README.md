@@ -1,4 +1,4 @@
-<h1 align='center'> Hi Geeks! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="40" height="40">, This is Akanksha Gautam </h1>
+<h1 align='center'> Hi ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="40" height="40">, This is Akanksha Gautam </h1>
 <br />
 
 ### About Me 🚀
