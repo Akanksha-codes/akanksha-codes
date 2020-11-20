@@ -7,7 +7,6 @@
 👨‍💻 I am passionate about Data Science, Web Dev, Machine Learning, DevOps, Documentation on thesis & I enjoy learning and explore new things in technical field. </br>
  <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="420" height="330">
  📫 Reach me at : Akankshagautam760@gmail.com
-
 <a href="https://github.com/Akanksha-codes">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-codes&title_color=002573&text_color=002573" />
   </a>
