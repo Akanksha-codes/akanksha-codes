@@ -1,4 +1,4 @@
-<h1 align='center'> Hi ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="40" height="40">, This is Akanksha Gautam </h1>
+<h1 align='center'> Hi ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="40" height="40">, I am Akanksha Gautam </h1>
 <br />
 
 ### About Me 🚀
@@ -14,6 +14,13 @@
   <a href="https://github.com/Akanksha-codes">
     <img src="https://github-readme-stats.vercel.app/api?username=Akanksha-codes&title_color=002573&show_icons=true&3&icon_color=28057D" />
   </a>
+  <a href="https://Akanksha-codes/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Akanksha-codes">
+</a>
+
+[Ÿ HŸPE]: https://yhype.halp.im
+[GitHub Profile Views Counter]: https://github.com/Akanksha-codes
+![]((https://hit.yhype.halp.im/github/profile?user_id=69639135))
   <hr>
   <img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img align="left" alt="JS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
