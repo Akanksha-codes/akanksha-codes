@@ -1,7 +1,7 @@
 <h1 align='center'> Hi ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="40" height="40">, I am Akanksha Gautam </h1>
 <br />
 
-### About Me 🚀
+## About Me 🚀
 
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Government Engineering College Banda Information Technology </br>
 👨‍💻 I am passionate about Data Science, Web Dev, Machine Learning, DevOps, Documentation on thesis & I enjoy learning and explore new things in technical field. </br>
