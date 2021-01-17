@@ -18,9 +18,9 @@
     <img src="https://komarev.com/ghpvc/?username=Akanksha-codes">
 </a>
 
-[Ÿ HŸPE]: https://yhype.halp.im
+[Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/Akanksha-codes
-![]((https://hit.yhype.halp.im/github/profile?user_id=69639135))
+![]((https://hit.yhype.me/github/profile?user_id=68818469))
   <hr>
   <img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img align="left" alt="JS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
