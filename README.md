@@ -8,6 +8,12 @@
  <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="420" height="330">
  📫 Reach me at : akankshagautam538@outlook.com
  
+ **Updates:**
+- 🔭 Ex Junior Data analyst at Thales group  [**RPA Labs**](https://www.thalesgroup.com/en/europe/germany/informatics-computational-data-science-or-it-security)
+🔭 Intern at Thales group  [**RPA Labs**](https://www.thalesgroup.com/en/europe/germany/informatics-computational-data-science-or-it-security)
+- 🔭 I’m also working on a Research paper related to Bioinformatics and Machine Learning. 
+- 🌱 I’m currently learning **NLP**. 
+- 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 <a href="https://github.com/Akanksha-codes">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-codes&title_color=002573&text_color=002573" />
   </a>
