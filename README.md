@@ -10,7 +10,8 @@
  
  **Updates:**
 - 🔭 Ex Junior Data analyst at Thales group  [**Thales group**](https://www.thalesgroup.com/en/europe/germany/informatics-computational-data-science-or-it-security)
-🔭 Intern at Thales group  [**Thales group**](https://www.thalesgroup.com/en/europe/germany/informatics-computational-data-science-or-it-security)
+
+- 🔭 Intern at Thales group  [**Thales group**](https://www.thalesgroup.com/en/europe/germany/informatics-computational-data-science-or-it-security)
 - 🔭 I’m also working on a Research paper related to Bioinformatics and Machine Learning. 
 - 🌱 I’m currently learning **NLP**. 
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
