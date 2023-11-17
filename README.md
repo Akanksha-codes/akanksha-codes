@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology at Dr. A.P.J. Abdul Kalam Technical </br>
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology at Dr. A.P.J. Abdul Kalam Technical and masters in high integrity system [**at Frankfurt University of Applied Science**]</br>
 👨‍💻 I am passionate about Data Science,Data analyst ,Machine Learning, DevOps, Documentation on thesis & I enjoy learning and explore new things in technical field. </br>
  <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="420" height="330">
  📫 Reach me at : akankshagautam538@outlook.com
